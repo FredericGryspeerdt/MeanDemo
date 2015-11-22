@@ -1,0 +1,20 @@
+{
+  "name": "MeanJsDemo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/FredericGryspeerdt/MeanDemo",
+  "authors": [
+    "Fgryspee <frederic.gryspeerdt@student.howest.be>"
+  ],
+  "description": "\"Mean stack demo\"",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.2",
+    "angular": "~1.4.8",
+    "angular-resource": "~1.4.8",
+    "angular-route": "~1.4.8"
+  }
+}
